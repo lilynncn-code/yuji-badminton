@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="540" viewBox="0 0 720 540" fill="none">
+  <rect width="720" height="540" fill="#1E1E1E"/>
+  <path d="M0 430C130 362 210 390 342 326C496 252 564 134 720 102V540H0V430Z" fill="#262826"/>
+  <g opacity=".2" stroke="#CCFF00" stroke-width="2">
+    <path d="M80 96H640M80 160H640M80 224H640M80 288H640M80 352H640"/>
+    <path d="M120 70V380M220 70V380M320 70V380M420 70V380M520 70V380M620 70V380"/>
+  </g>
+  <g transform="translate(382 72) rotate(28)">
+    <ellipse cx="0" cy="128" rx="88" ry="128" stroke="#CCFF00" stroke-width="13"/>
+    <ellipse cx="0" cy="128" rx="58" ry="96" stroke="#8E8E93" stroke-width="4" opacity=".55"/>
+    <path d="M-56 70H56M-66 112H66M-66 154H66M-50 196H50" stroke="#8E8E93" stroke-width="3" opacity=".5"/>
+    <path d="M-40 38V218M0 20V238M40 38V218" stroke="#8E8E93" stroke-width="3" opacity=".5"/>
+    <path d="M0 258V390" stroke="#CCFF00" stroke-width="18" stroke-linecap="round"/>
+    <path d="M0 312V424" stroke="#FFFFFF" stroke-width="9" stroke-linecap="round" opacity=".76"/>
+  </g>
+  <circle cx="156" cy="122" r="38" fill="#CCFF00" opacity=".15"/>
+  <text x="44" y="482" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="34" font-weight="800">Track Racket Lab</text>
+  <text x="44" y="514" fill="#8E8E93" font-family="Arial, sans-serif" font-size="22">AI tuned badminton gear</text>
+</svg>

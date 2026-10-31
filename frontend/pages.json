@@ -1,0 +1,278 @@
+{
+	"pages": [
+		{
+			"path": "pages/auth/login",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "登录"
+			}
+		},
+		{
+			"path": "pages/auth/register",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "注册"
+			}
+		},
+		{
+			"path": "pages/auth/forgot",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "忘记密码"
+			}
+		},
+		{
+			"path": "pages/auth/change-password",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "修改密码"
+			}
+		},
+		{
+			"path": "pages/onboarding/onboarding",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "开始使用"
+			}
+		},
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "羽迹 Track"
+			}
+		},
+		{
+			"path": "pages/ai-coach/ai-coach",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "AI 智能私教"
+			}
+		},
+		{
+			"path": "pages/match-making/match-making",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "积分匹配"
+			}
+		},
+		{
+			"path": "pages/video-feed/video-feed",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "球友圈"
+			}
+		},
+		{
+			"path": "pages/profile/profile",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "我的"
+			}
+		},
+		{
+			"path": "pages/match/detail",
+			"style": {
+				"navigationBarTitleText": "赛况详情"
+			}
+		},
+		{
+			"path": "pages/courts/nearby",
+			"style": {
+				"navigationBarTitleText": "附近球场"
+			}
+		},
+		{
+			"path": "pages/equipment/library",
+			"style": {
+				"navigationBarTitleText": "智能器材库"
+			}
+		},
+		{
+			"path": "pages/ai-coach/camera-capture",
+			"style": {
+				"navigationBarTitleText": "AI 识别"
+			}
+		},
+		{
+			"path": "pages/match-making/group-detail",
+			"style": {
+				"navigationBarTitleText": "球员详情"
+			}
+		},
+		{
+			"path": "pages/video-feed/player",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "视频播放"
+			}
+		},
+		{
+			"path": "pages/video-feed/clinic-detail",
+			"style": {
+				"navigationBarTitleText": "技术诊所"
+			}
+		},
+		{
+			"path": "pages/tournament/bracket",
+			"style": {
+				"navigationBarTitleText": "赛事签表"
+			}
+		},
+		{
+			"path": "pages/ranking/ranking",
+			"style": {
+				"navigationBarTitleText": "球星排名"
+			}
+		},
+		{
+			"path": "pages/community/hot-posts",
+			"style": {
+				"navigationBarTitleText": "中羽热帖"
+			}
+		},
+		{
+			"path": "pages/community/post-detail",
+			"style": {
+				"navigationBarTitleText": "帖子详情"
+			}
+		},
+		{
+			"path": "pages/settings/settings",
+			"style": {
+				"navigationBarTitleText": "设置"
+			}
+		},
+		{
+			"path": "pages/agreement/agreement",
+			"style": {
+				"navigationBarTitleText": "用户协议"
+			}
+		},
+		{
+			"path": "pages/privacy/privacy",
+			"style": {
+				"navigationBarTitleText": "隐私政策"
+			}
+		},
+		{
+			"path": "pages/chat/inbox",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "聊天"
+			}
+		},
+		{
+			"path": "pages/chat/thread",
+			"style": {
+				"navigationBarTitleText": "会话"
+			}
+		},
+		{
+			"path": "pages/ai-coach/history",
+			"style": {
+				"navigationBarTitleText": "训练记录"
+			}
+		},
+		{
+			"path": "pages/ai-coach/daily",
+			"style": {
+				"navigationBarTitleText": "今日基础练习"
+			}
+		},
+		{
+			"path": "pages/profile/people",
+			"style": {
+				"navigationBarTitleText": "关注与粉丝"
+			}
+		},
+		{
+			"path": "pages/settings/reports",
+			"style": {
+				"navigationBarTitleText": "举报记录"
+			}
+		},
+		{
+			"path": "pages/settings/permissions",
+			"style": {
+				"navigationBarTitleText": "手机权限"
+			}
+		},
+		{
+			"path": "pages/settings/change-phone",
+			"style": {
+				"navigationBarTitleText": "更换手机号"
+			}
+		},
+		{
+			"path": "pages/settings/delete-account",
+			"style": {
+				"navigationBarTitleText": "注销账号"
+			}
+		},
+		{
+			"path": "pages/notifications/notifications",
+			"style": {
+				"navigationBarTitleText": "站内提醒"
+			}
+		},
+		{
+			"path": "pages/match-making/games",
+			"style": {
+				"navigationBarTitleText": "一起约球"
+			}
+		},
+		{
+			"path": "pages/settings/review-reports",
+			"style": {
+				"navigationBarTitleText": "处理举报"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "羽迹 Track",
+		"navigationBarBackgroundColor": "#121212",
+		"backgroundColor": "#121212",
+		"backgroundTextStyle": "dark"
+	},
+	"tabBar": {
+		"color": "#8E8E93",
+		"selectedColor": "#CCFF00",
+		"backgroundColor": "#121212",
+		"borderStyle": "black",
+		"list": [
+			{
+				"pagePath": "pages/index/index",
+				"text": "首页",
+				"iconPath": "static/tab/home.svg",
+				"selectedIconPath": "static/tab/home-active.svg"
+			},
+			{
+				"pagePath": "pages/ai-coach/ai-coach",
+				"text": "AI训练",
+				"iconPath": "static/tab/coach.svg",
+				"selectedIconPath": "static/tab/coach-active.svg"
+			},
+			{
+				"pagePath": "pages/match-making/match-making",
+				"text": "找球友",
+				"iconPath": "static/tab/match.svg",
+				"selectedIconPath": "static/tab/match-active.svg"
+			},
+			{
+				"pagePath": "pages/video-feed/video-feed",
+				"text": "球圈",
+				"iconPath": "static/tab/video.svg",
+				"selectedIconPath": "static/tab/video-active.svg"
+			},
+			{
+				"pagePath": "pages/profile/profile",
+				"text": "我的",
+				"iconPath": "static/tab/profile.svg",
+				"selectedIconPath": "static/tab/profile-active.svg"
+			}
+		]
+	},
+	"uniIdRouter": {}
+}

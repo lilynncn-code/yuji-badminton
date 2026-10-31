@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="540" viewBox="0 0 720 540" fill="none">
+  <rect width="720" height="540" fill="#121212"/>
+  <path d="M72 88H648V452H72V88Z" stroke="#2C2C2E" stroke-width="6"/>
+  <path d="M360 88V452M72 270H648M190 88V452M530 88V452" stroke="#2C2C2E" stroke-width="4"/>
+  <g transform="translate(350 74) rotate(37)">
+    <ellipse cx="0" cy="132" rx="94" ry="132" stroke="#CCFF00" stroke-width="14"/>
+    <path d="M-62 70H62M-74 112H74M-74 154H74M-56 198H56" stroke="#FFFFFF" stroke-width="3" opacity=".54"/>
+    <path d="M-42 36V222M0 18V242M42 36V222" stroke="#FFFFFF" stroke-width="3" opacity=".54"/>
+    <path d="M0 270V430" stroke="#CCFF00" stroke-width="20" stroke-linecap="round"/>
+    <path d="M0 338V462" stroke="#FF5722" stroke-width="10" stroke-linecap="round"/>
+  </g>
+  <circle cx="170" cy="154" r="20" fill="#CCFF00"/>
+  <circle cx="568" cy="390" r="26" fill="#FF5722" opacity=".8"/>
+  <text x="48" y="50" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="30" font-weight="800">Court Session</text>
+</svg>
